@@ -1,4 +1,4 @@
-# react_calc
+# react-calculator
 I built a calculator for Math-magicians Inc using create-react-app,
 
 - Basic Calculator
