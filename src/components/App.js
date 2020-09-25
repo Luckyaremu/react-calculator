@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import ButtonCov from './ButtonCov';
 import DisplayPanel from './DisplayPanel';
-//import calculate from '../logic/calculate';
+import calculate from '../logic/calculate';
 
 class App extends Component {
   constructor(props) {
