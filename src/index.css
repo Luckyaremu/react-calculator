@@ -35,7 +35,7 @@ code {
 }
 
 .App {
-  max-width: 70rem;
+  width: 700px;
   margin: auto;
   display: flex;
   flex-direction: column;
@@ -58,7 +58,7 @@ code {
 }
 
 button {
-  width: 100%;
+  width: 25%;
   padding: 1rem;
   font-size: 2.5rem;
   font-weight: bolder;
@@ -75,7 +75,7 @@ button {
   font-size: 3.2rem;
   color: white;
   font-weight: bolder;
-  height: 10rem;
+  height: 100px;
 }
 
 .orange {
