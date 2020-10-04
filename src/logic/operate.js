@@ -18,8 +18,11 @@ const operate = (numberOne, numberTwo, operation) => {
       result = one.times(two);
       break;
     case '÷':
-      if (two === '0') {
-        result = undefined;
+      if (operation === '÷') {
+        if (numberTwo !== '0') {
+          return Big(numberOne).div(Big(numberTwo));
+        }
+        return '∞';
       }
       result = one.div(two);
       break;

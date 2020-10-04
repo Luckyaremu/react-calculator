@@ -7,6 +7,7 @@ I built a calculator for Math-magicians Inc using create-react-app,
 # Screenshot
 ![Screenshot](screenshot.gif)
 
+
 # Live Demo
 [Live Demo Link](https://react-calculator2.herokuapp.com/) 
 
