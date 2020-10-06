@@ -4,9 +4,6 @@ I built a calculator for Math-magicians Inc using create-react-app,
 - Basic Calculator
 - Users can perform basic calculations with ease
 
-# Screenshot
-![Screenshot](screenshot.gif)
-
 
 # Live Demo
 [Live Demo Link](https://react-calculator2.herokuapp.com/) 
