@@ -20,7 +20,7 @@ const operate = (numberOne, numberTwo, operation) => {
     case '÷':
       if (operation === '÷') {
         if (numberTwo !== '0') {
-          return Big(numberOne).div(Big(numberTwo));
+          return parseFloat(numberOne) / parseFloat(numberTwo);
         }
         return '∞';
       }
