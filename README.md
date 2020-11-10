@@ -9,7 +9,7 @@ I built a calculator for Math-magicians Inc using create-react-app,
 
 
 # Live Demo
-[Live Demo Link](https://react-calculator2.herokuapp.com/) 
+[Live Demo Link](https://blissful-thompson-075242.netlify.app/) 
 
 
 # Built With
